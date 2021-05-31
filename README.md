@@ -1,12 +1,11 @@
 <h1 align="center"> Hi there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 <div align="center">
-  <img src="https://github.com/ujjwalpuri29/ujjwalpuri29/blob/Banner/Banner.png" width="99%">
+  <img src="https://github.com/ujjwalpuri29/ujjwalpuri29/blob/Banner/Banner.png" width=100px>
 </div>
 <div align="center">
   <!--<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=ujjwalpuri29&layout=compact&show_icons=true&theme=react'/>-->
-  <img width=49% src='https://github-readme-stats.vercel.app/api?username=ujjwalpuri29&show_icons=true&theme=react'>
-  <span>&nbsp;</span>
-  <img width=49% src='https://github-readme-streak-stats.herokuapp.com/?user=ujjwalpuri29&show_icons=true&theme=react'>
+  <img width=500px src='https://github-readme-stats.vercel.app/api?username=ujjwalpuri29&show_icons=true&theme=react'>
+  <img width=500px src='https://github-readme-streak-stats.herokuapp.com/?user=ujjwalpuri29&show_icons=true&theme=react'>
 </div>
 
 <span>&nbsp;</span>
