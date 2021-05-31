@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 <div align="center">
-  <img src="https://github.com/ujjwalpuri29/ujjwalpuri29/blob/Banner/Banner.png" width=100px>
+  <img src="https://github.com/ujjwalpuri29/ujjwalpuri29/blob/Banner/Banner.png" width=1000px>
 </div>
 <div align="center">
   <!--<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=ujjwalpuri29&layout=compact&show_icons=true&theme=react'/>-->
