@@ -4,8 +4,8 @@
 </div>
 <div align="center">
   <!--<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=ujjwalpuri29&layout=compact&show_icons=true&theme=react'/>-->
-  <img width=480px src='https://github-readme-stats.vercel.app/api?username=ujjwalpuri29&show_icons=true&theme=react'>
-  <img width=480px src='https://github-readme-streak-stats.herokuapp.com/?user=ujjwalpuri29&show_icons=true&theme=react'>
+  <img width=426px src='https://github-readme-stats.vercel.app/api?username=ujjwalpuri29&show_icons=true&theme=react'>
+  <img width=426px src='https://github-readme-streak-stats.herokuapp.com/?user=ujjwalpuri29&show_icons=true&theme=react'>
 </div>
 
 <span>&nbsp;</span>
