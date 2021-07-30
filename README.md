@@ -12,14 +12,14 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/ujjwal-puri/">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="32px"/>
   </a><span>&nbsp;</span>
   <a href="mailto:mail.ujjwalpuri29@yahoo.com">
-    <img src="https://img.icons8.com/fluent/48/000000/mail.png" width="3.5%"/>
+    <img src="https://img.icons8.com/fluent/48/000000/mail.png" width="32px"/>
   </a><span>&nbsp;</span>
   <a href="https://www.instagram.com/ujjwal._.p/">
-    <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>
+    <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="32px"/>
   </a><span>&nbsp;</span><a href="https://github.com/ujjwalpuri29">
-    <img src="https://img.icons8.com/fluent/48/000000/github.png" width="3.5%"/>
+    <img src="https://img.icons8.com/fluent/48/000000/github.png" width="32px"/>
   </a><span>&nbsp;</span>
 </div>
