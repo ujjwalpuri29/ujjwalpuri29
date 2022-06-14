@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="4vw">  </h1>
+<h1 align="center"> Hi there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">  </h1>
 <div align="center">
   <img src="https://github.com/ujjwalpuri29/ujjwalpuri29/blob/Banner/Banner.png" width=1000px>
 </div>
