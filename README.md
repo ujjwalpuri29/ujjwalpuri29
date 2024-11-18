@@ -20,9 +20,7 @@
   <a href="mailto:mail.ujjwalpuri29@yahoo.com">
     <img src="https://img.icons8.com/fluent/48/000000/mail.png" width="32px"/>
   </a><span>&nbsp;</span>
-  <a href="https://www.instagram.com/ujjwal._.p/">
-    <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="32px"/>
-  </a><span>&nbsp;</span><a href="https://github.com/ujjwalpuri29">
+  <a href="https://github.com/ujjwalpuri29">
     <img src="https://img.icons8.com/fluent/48/000000/github.png" width="32px"/>
   </a><span>&nbsp;</span>
 </div>
