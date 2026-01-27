@@ -1,26 +1,44 @@
-<h1 align="center"> Hi there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">  </h1>
-<div align="center">
-  <img src="https://github.com/ujjwalpuri29/ujjwalpuri29/blob/Banner/Banner.png" width=1000px>
-</div>
+<h1 align="center">Hey 👋 I'm Ujjwal</h1>
 
-<!--
-<div align="center">
-  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=ujjwalpuri29&layout=compact&show_icons=true&theme=react'/>
-  <img width="425" src='https://github-readme-stats.vercel.app/api?username=ujjwalpuri29&show_icons=true&theme=react'>
-  <img width="425" src='https://github-readme-streak-stats.herokuapp.com/?user=ujjwalpuri29&show_icons=true&theme=react'>
-</div>
--->
 
-<span>&nbsp;</span>
+I'm a Master's student at the **University of Southern California**, passionate about building intelligent systems that are both impactful and user-focused.
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/ujjwal-puri/">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="32px"/>
-  </a><span>&nbsp;</span>
-  <a href="mailto:mail.ujjwalpuri29@yahoo.com">
-    <img src="https://img.icons8.com/fluent/48/000000/mail.png" width="32px"/>
-  </a><span>&nbsp;</span>
-  <a href="https://github.com/ujjwalpuri29">
-    <img src="https://img.icons8.com/fluent/48/000000/github.png" width="32px"/>
-  </a><span>&nbsp;</span>
-</div>
+- 🔭 I’m currently exploring **generative AI** and **scalable web architectures**
+
+- 🤖 Interested in ML applications, model optimization, and real-world AI integrations
+
+<p align="center">
+<strong>Check out my Portfolio - Website <a href="https://ujjwalpuri29.github.io">here</a>!</strong>
+</p>
+
+## 🛠️ **Tech Stack**
+### **Languages**
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,js,ts,mysql,html,css" />
+</p>
+
+### **Frameworks & Libraries**
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,pytorch,tensorflow,fastapi,mongo,tailwind" />
+</p>
+
+### **Tools**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,figma,ps,ai,pr" />
+</p>
+
+## ✨ Fun Facts
+- ☕ Powered by late-night coding and iced coffee
+- 🤝 Open to collaborating on projects that bridge data, AI, and business impact
+- ⚡ Outside of tech: I’m a music enthusiast, a photographer, and enjoy TV shows in my downtime
+
+## 📫 Connect With Me
+<p>
+  <a href="https://www.linkedin.com/in/ujjwal-puri/"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
+</p>
+
+
+## 📈 Github Stats 
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujjwalpuri29&layout=compact&theme=tokyonight" height="180" />
+</p>
