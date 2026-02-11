@@ -36,9 +36,3 @@ I'm a Master's student at the **University of Southern California**, passionate 
 <p>
   <a href="https://www.linkedin.com/in/ujjwal-puri/"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
 </p>
-
-
-## 📈 Github Stats 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujjwalpuri29&layout=compact&theme=tokyonight" height="180" />
-</p>
